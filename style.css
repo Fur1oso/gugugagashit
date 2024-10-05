@@ -1,0 +1,19 @@
+body {
+  background-image: url("chunky-seal.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  border-radius: 10px;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+#message {
+  color: #007bff;
+}
